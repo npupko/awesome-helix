@@ -29,6 +29,7 @@ Helix is a post-modern modal text editor with built-in support for multiple sele
 
 - [ghost-text.hx](https://github.com/nik-rev/ghost-text.hx) - GhostText implementation allowing you to edit text in your browser using Helix.
 - [Steel Dart LSP Extension](https://github.com/mattwparas/steel/discussions/416#discussioncomment-13489298) - Dart LSP extension using Steel programming language.
+- [switcheroo.hx](https://github.com/godalming123/switcheroo.hx) - A helix plugin to switch between .cpp and .h files with the same base name.
 
 ### Development Tools
 
