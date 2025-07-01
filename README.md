@@ -42,6 +42,7 @@ Helix is a post-modern modal text editor with built-in support for multiple sele
 ## Tools and Utilities
 
 - [Steel](https://github.com/mattwparas/steel) - A Scheme-based scripting language for configuration and extensibility.
+- [yazelix](https://github.com/luccahuguet/yazelix) - Integrates Yazi, Zellij, and Helix for an IDE-like experience with a file tree.
 
 ## Tutorials and Guides
 
