@@ -30,6 +30,7 @@ Helix is a post-modern modal text editor with built-in support for multiple sele
 - [ghost-text.hx](https://github.com/nik-rev/ghost-text.hx) - GhostText implementation allowing you to edit text in your browser using Helix.
 - [helix-file-watcher](https://github.com/mattwparas/helix-file-watcher) - A plugin that monitors the current directory for file changes.
 - [HeTeX.hx](https://github.com/daynardn/HeTeX.hx) - An experimental plugin for rendering LaTeX as ASCII within Helix.
+- [presence.hx](https://github.com/Ciflire/presence.hx) - Discord Rich Presence integration for Helix.
 - [scooter.hx](https://github.com/thomasschafer/scooter.hx) - Scooter.hx is a find-and-replace plugin for Helix.
 - [smooth-scroll.hx](https://github.com/thomasschafer/smooth-scroll.hx) - Smooth scrolling Helix plugin.
 - [Steel Dart LSP Extension](https://github.com/mattwparas/steel/discussions/416#discussioncomment-13489298) - Dart LSP extension using Steel programming language.
