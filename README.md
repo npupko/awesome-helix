@@ -30,6 +30,7 @@ Helix is a post-modern modal text editor with built-in support for multiple sele
 - [ghost-text.hx](https://github.com/nik-rev/ghost-text.hx) - GhostText implementation allowing you to edit text in your browser using Helix.
 - [helix-file-watcher](https://github.com/mattwparas/helix-file-watcher) - A plugin that monitors the current directory for file changes.
 - [HeTeX.hx](https://github.com/daynardn/HeTeX.hx) - An experimental plugin for rendering LaTeX as ASCII within Helix.
+- [hx-tmux-navigator](https://github.com/piotrkwarcinski/hx-tmux-navigator) - Navigate seamlessly between Helix and tmux panes.
 - [modeline.hx](https://github.com/gerblesh/modeline.hx) - Support for basic Emacs and Vim modelines.
 - [presence.hx](https://github.com/Ciflire/presence.hx) - Discord Rich Presence integration for Helix.
 - [csharp-hx](https://github.com/jdrst/csharp-hx) - C# language support and tooling for Helix.
@@ -37,10 +38,10 @@ Helix is a post-modern modal text editor with built-in support for multiple sele
 - [showkeys.hx](https://github.com/HeitorAugustoLN/showkeys.hx) - Display pressed keys on screen.
 - [smooth-scroll.hx](https://github.com/thomasschafer/smooth-scroll.hx) - Smooth scrolling Helix plugin.
 - [Steel Dart LSP Extension](https://github.com/mattwparas/steel/discussions/416#discussioncomment-13489298) - Dart LSP extension using Steel programming language.
-- [streal.hx](https://github.com/gllms/streal.hx) - Bookmark files and quickly switch between them
+- [streal.hx](https://github.com/gllms/streal.hx) - Bookmark files and quickly switch between them.
 - [switcheroo.hx](https://github.com/godalming123/switcheroo.hx) - A helix plugin to switch between .cpp and .h files with the same base name.
 - [notify.hx](https://github.com/chuwy/notify.hx) - A Helix plugin to display notification popups.
-- [flash.hx](https://github.com/shybovycha/flash.hx) - Jumping around screen using prefix search, like [flash.nvim](https://github.com/folke/flash.nvim)
+- [flash.hx](https://github.com/shybovycha/flash.hx) - Jumping around screen using prefix search, like [flash.nvim](https://github.com/folke/flash.nvim).
 
 ### Development Tools
 
