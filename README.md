@@ -31,7 +31,7 @@ Helix is a post-modern modal text editor with built-in support for multiple sele
 - [helix-file-watcher](https://github.com/mattwparas/helix-file-watcher) - A plugin that monitors the current directory for file changes.
 - [HeTeX.hx](https://github.com/daynardn/HeTeX.hx) - An experimental plugin for rendering LaTeX as ASCII within Helix.
 - [hx-tmux-navigator](https://github.com/piotrkwarcinski/hx-tmux-navigator) - Navigate seamlessly between Helix and tmux panes.
-- [modeline.hx](https://github.com/gerblesh/modeline.hx) - Support for basic Emacs and Vim modelines.
+- [modeline.hx](https://codeberg.org/gwid/modeline.hx) - Support for basic Emacs and Vim modelines.
 - [presence.hx](https://github.com/Ciflire/presence.hx) - Discord Rich Presence integration for Helix.
 - [csharp-hx](https://github.com/jdrst/csharp-hx) - C# language support and tooling for Helix.
 - [scooter.hx](https://github.com/thomasschafer/scooter.hx) - Scooter.hx is a find-and-replace plugin for Helix.
@@ -85,4 +85,3 @@ Helix is a post-modern modal text editor with built-in support for multiple sele
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](contributing.md) first.
-
