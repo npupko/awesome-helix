@@ -50,6 +50,7 @@ Helix is a post-modern modal text editor with built-in support for multiple sele
 ## Themes
 
 - [Community Themes](https://github.com/helix-editor/helix/wiki/Themes) - Built-in themes included with Helix.
+- [Alabaster](https://github.com/wolf/alabaster-for-helix) - Complete port of the minimal Alabaster theme family (standard, BG, and mono variants).
 
 ## Tools and Utilities
 
