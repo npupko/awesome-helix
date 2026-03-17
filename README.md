@@ -19,7 +19,7 @@ Helix is a post-modern modal text editor with built-in support for multiple sele
 - [Helix GitHub Repository](https://github.com/helix-editor/helix) - Main repository.
 - [Documentation](https://docs.helix-editor.com/) - Official documentation.
 - [Installation Guide](https://docs.helix-editor.com/install.html) - How to install Helix.
-- [Configuration](https://docs.helix-editor.com/configuration.html) - Configuration guide.
+- [Configuration](https://docs.helix-editor.com/configuration.html) - Official guide for customizing Helix.
 
 ## Plugins
 
@@ -27,23 +27,23 @@ Helix is a post-modern modal text editor with built-in support for multiple sele
 
 ### Editor Extensions
 
+- [csharp-hx](https://github.com/jdrst/csharp-hx) - C# language support and tooling for Helix.
+- [flash.hx](https://github.com/shybovycha/flash.hx) - Jumping around screen using prefix search, like [flash.nvim](https://github.com/folke/flash.nvim).
 - [ghost-text.hx](https://github.com/nik-rev/ghost-text.hx) - GhostText implementation allowing you to edit text in your browser using Helix.
 - [helix-file-watcher](https://github.com/mattwparas/helix-file-watcher) - A plugin that monitors the current directory for file changes.
 - [HeTeX.hx](https://github.com/daynardn/HeTeX.hx) - An experimental plugin for rendering LaTeX as ASCII within Helix.
 - [hx-tmux-navigator](https://github.com/piotrkwarcinski/hx-tmux-navigator) - Navigate seamlessly between Helix and tmux panes.
+- [microscope.hx](https://github.com/chuwy/microscope.hx) - Customizable pickers, like [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim).
 - [modeline.hx](https://codeberg.org/gwid/modeline.hx) - Support for basic Emacs and Vim modelines.
+- [notify.hx](https://github.com/chuwy/notify.hx) - A Helix plugin to display notification popups.
+- [nrepl.hx](https://github.com/waddie/nrepl.hx) - An nREPL client plugin for the Helix editor.
 - [presence.hx](https://github.com/Ciflire/presence.hx) - Discord Rich Presence integration for Helix.
-- [csharp-hx](https://github.com/jdrst/csharp-hx) - C# language support and tooling for Helix.
-- [scooter.hx](https://github.com/thomasschafer/scooter.hx) - Scooter.hx is a find-and-replace plugin for Helix.
+- [scooter.hx](https://github.com/thomasschafer/scooter.hx) - Interactive find-and-replace plugin for Helix.
 - [showkeys.hx](https://github.com/HeitorAugustoLN/showkeys.hx) - Display pressed keys on screen.
 - [smooth-scroll.hx](https://github.com/thomasschafer/smooth-scroll.hx) - Smooth scrolling Helix plugin.
 - [Steel Dart LSP Extension](https://github.com/mattwparas/steel/discussions/416#discussioncomment-13489298) - Dart LSP extension using Steel programming language.
 - [streal.hx](https://github.com/gllms/streal.hx) - Bookmark files and quickly switch between them.
 - [switcheroo.hx](https://github.com/godalming123/switcheroo.hx) - A helix plugin to switch between .cpp and .h files with the same base name.
-- [notify.hx](https://github.com/chuwy/notify.hx) - A Helix plugin to display notification popups.
-- [flash.hx](https://github.com/shybovycha/flash.hx) - Jumping around screen using prefix search, like [flash.nvim](https://github.com/folke/flash.nvim).
-- [microscope.hx](https://github.com/chuwy/microscope.hx) - Customizable pickers, like [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim).
-
 
 ### Development Tools
 
