@@ -6,6 +6,8 @@
 
 Helix is a post-modern modal text editor with built-in LSP, tree-sitter, and multiple selections support.
 
+<br clear="left">
+
 ## Contents
 
 - [Official Resources](#official-resources)
