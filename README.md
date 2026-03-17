@@ -42,6 +42,8 @@ Helix is a post-modern modal text editor with built-in support for multiple sele
 - [switcheroo.hx](https://github.com/godalming123/switcheroo.hx) - A helix plugin to switch between .cpp and .h files with the same base name.
 - [notify.hx](https://github.com/chuwy/notify.hx) - A Helix plugin to display notification popups.
 - [flash.hx](https://github.com/shybovycha/flash.hx) - Jumping around screen using prefix search, like [flash.nvim](https://github.com/folke/flash.nvim).
+- [microscope.hx](https://github.com/chuwy/microscope.hx) - Customizable pickers, like [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim).
+
 
 ### Development Tools
 
