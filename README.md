@@ -1,6 +1,6 @@
 # Awesome Helix [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<a href="https://helix-editor.com/"><img src="logo.svg" align="right" width="70" height="110" alt="Helix"></a>
+<a href="https://helix-editor.com/"><img src="logo.svg" align="left" width="70" height="110" alt="Helix"></a>
 
 > A curated list of awesome Helix resources, tools, and plugins.
 
