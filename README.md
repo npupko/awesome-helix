@@ -1,8 +1,11 @@
-# Awesome Helix [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+	<a href="https://helix-editor.com/"><img src="logo.svg" width="288" alt="Helix"></a>
+	<br>
+	<br>
+	<a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+</div>
 
-> A curated list of awesome Helix editor resources, plugins, themes, and tools.
-
-Helix is a post-modern modal text editor with built-in support for multiple selections, Language Server Protocol (LSP), tree-sitter, and experimental support for Debug Adapter Protocol (DAP).
+> Post-modern modal text editor with built-in LSP, tree-sitter, and multiple selections support.
 
 ## Contents
 
