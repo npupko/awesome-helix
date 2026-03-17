@@ -30,20 +30,20 @@ Helix is a post-modern modal text editor with built-in support for multiple sele
 - [csharp-hx](https://github.com/jdrst/csharp-hx) - C# language support and tooling for Helix.
 - [flash.hx](https://github.com/shybovycha/flash.hx) - Jumping around screen using prefix search, like [flash.nvim](https://github.com/folke/flash.nvim).
 - [ghost-text.hx](https://github.com/nik-rev/ghost-text.hx) - GhostText implementation allowing you to edit text in your browser using Helix.
-- [helix-file-watcher](https://github.com/mattwparas/helix-file-watcher) - A plugin that monitors the current directory for file changes.
-- [HeTeX.hx](https://github.com/daynardn/HeTeX.hx) - An experimental plugin for rendering LaTeX as ASCII within Helix.
+- [helix-file-watcher](https://github.com/mattwparas/helix-file-watcher) - Monitors the current directory for file changes.
+- [HeTeX.hx](https://github.com/daynardn/HeTeX.hx) - Experimental plugin for rendering LaTeX as ASCII within Helix.
 - [hx-tmux-navigator](https://github.com/piotrkwarcinski/hx-tmux-navigator) - Navigate seamlessly between Helix and tmux panes.
 - [microscope.hx](https://github.com/chuwy/microscope.hx) - Customizable pickers, like [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim).
 - [modeline.hx](https://codeberg.org/gwid/modeline.hx) - Support for basic Emacs and Vim modelines.
-- [notify.hx](https://github.com/chuwy/notify.hx) - A Helix plugin to display notification popups.
-- [nrepl.hx](https://github.com/waddie/nrepl.hx) - An nREPL client plugin for the Helix editor.
+- [notify.hx](https://github.com/chuwy/notify.hx) - Notification popup engine for Helix.
+- [nrepl.hx](https://github.com/waddie/nrepl.hx) - nREPL client for the Helix editor.
 - [presence.hx](https://github.com/Ciflire/presence.hx) - Discord Rich Presence integration for Helix.
 - [scooter.hx](https://github.com/thomasschafer/scooter.hx) - Interactive find-and-replace plugin for Helix.
 - [showkeys.hx](https://github.com/HeitorAugustoLN/showkeys.hx) - Display pressed keys on screen.
 - [smooth-scroll.hx](https://github.com/thomasschafer/smooth-scroll.hx) - Smooth scrolling Helix plugin.
 - [Steel Dart LSP Extension](https://github.com/mattwparas/steel/discussions/416#discussioncomment-13489298) - Dart LSP extension using Steel programming language.
 - [streal.hx](https://github.com/gllms/streal.hx) - Bookmark files and quickly switch between them.
-- [switcheroo.hx](https://github.com/godalming123/switcheroo.hx) - A helix plugin to switch between .cpp and .h files with the same base name.
+- [switcheroo.hx](https://github.com/godalming123/switcheroo.hx) - Switch between .cpp and .h files with the same base name.
 
 ### Development Tools
 
@@ -51,12 +51,12 @@ Helix is a post-modern modal text editor with built-in support for multiple sele
 
 ## Themes
 
-- [Community Themes](https://github.com/helix-editor/helix/wiki/Themes) - Built-in themes included with Helix.
 - [Alabaster](https://github.com/wolf/alabaster-for-helix) - Complete port of the minimal Alabaster theme family (standard, BG, and mono variants).
+- [Community Themes](https://github.com/helix-editor/helix/wiki/Themes) - Built-in themes included with Helix.
 
 ## Tools and Utilities
 
-- [Steel](https://github.com/mattwparas/steel) - A Scheme-based scripting language for configuration and extensibility.
+- [Steel](https://github.com/mattwparas/steel) - Scheme-based scripting language for configuration and extensibility.
 - [yazelix](https://github.com/luccahuguet/yazelix) - Integrates Yazi, Zellij, and Helix for an IDE-like experience with a file tree.
 
 ## Tutorials and Guides
