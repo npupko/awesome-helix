@@ -5,7 +5,7 @@ A curated list of Helix resources.
 > Post-modern modal text editor with built-in LSP, tree-sitter, and multiple selections support.
 
 <div align="center">
-	<a href="https://helix-editor.com/"><img src="logo_dark.svg" width="500" alt="Helix"></a>
+	<a href="https://helix-editor.com/"><img src="logo_light.svg" width="500" alt="Helix"></a>
 </div>
 
 ## Contents
