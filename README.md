@@ -1,11 +1,12 @@
-<div align="center">
-	<a href="https://helix-editor.com/"><img src="logo.svg" width="288" alt="Helix"></a>
-	<br>
-	<br>
-	<a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-</div>
+# Awesome Helix [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+A curated list of Helix resources.
 
 > Post-modern modal text editor with built-in LSP, tree-sitter, and multiple selections support.
+
+<div align="center">
+	<a href="https://helix-editor.com/"><img src="logo.svg" width="288" alt="Helix"></a>
+</div>
 
 ## Contents
 
