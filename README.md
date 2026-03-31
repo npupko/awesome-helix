@@ -48,7 +48,7 @@ Helix is a post-modern modal text editor with built-in LSP, tree-sitter, and mul
 - [Steel Dart LSP Extension](https://github.com/mattwparas/steel/discussions/416#discussioncomment-13489298) - Dart LSP extension using Steel programming language.
 - [streal.hx](https://github.com/gllms/streal.hx) - Bookmark files and quickly switch between them.
 - [switcheroo.hx](https://github.com/godalming123/switcheroo.hx) - Switch between .cpp and .h files with the same base name.
-- [wakatime.hx](https://github.com/Xerxes-2/wakatime.hx) - A Helix Steel plugin that sends WakaTime heartbeats
+- [wakatime.hx](https://github.com/Xerxes-2/wakatime.hx) - A Helix Steel plugin that sends WakaTime heartbeats.
 
 ### Development Tools
 
