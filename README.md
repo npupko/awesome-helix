@@ -1,12 +1,12 @@
-# Awesome Helix [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Helix [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<a href="https://helix-editor.com/"><img src="logo.svg" align="left" width="70" height="110" alt="Helix"></a>
+<a href="https://helix-editor.com/"><img src="logo.svg" align="right" width="70" height="110" alt="Helix"></a>
 
 > A curated list of awesome Helix resources, tools, and plugins.
 
 Helix is a post-modern modal text editor with built-in LSP, tree-sitter, and multiple selections support.
 
-<br clear="left">
+<br clear="right">
 
 ## Contents
 
@@ -91,4 +91,4 @@ Helix is a post-modern modal text editor with built-in LSP, tree-sitter, and mul
 
 ## Contributing
 
-Contributions are welcome! Please read the [contribution guidelines](contributing.md) first.
+Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
