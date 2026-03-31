@@ -43,6 +43,7 @@ Helix is a post-modern modal text editor with built-in LSP, tree-sitter, and mul
 - [nrepl.hx](https://github.com/waddie/nrepl.hx) - nREPL client for the Helix editor.
 - [presence.hx](https://github.com/Ciflire/presence.hx) - Discord Rich Presence integration for Helix.
 - [scooter.hx](https://github.com/thomasschafer/scooter.hx) - Interactive find-and-replace plugin for Helix.
+- [select-project.hx](https://github.com/godalming123/select-project.hx) - Select a project as Helix's working directory with fuzzy finding.
 - [showkeys.hx](https://github.com/HeitorAugustoLN/showkeys.hx) - Display pressed keys on screen.
 - [smooth-scroll.hx](https://github.com/thomasschafer/smooth-scroll.hx) - Smooth scrolling Helix plugin.
 - [Steel Dart LSP Extension](https://github.com/mattwparas/steel/discussions/416#discussioncomment-13489298) - Dart LSP extension using Steel programming language.
