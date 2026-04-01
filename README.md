@@ -33,7 +33,6 @@ Helix is a post-modern modal text editor with built-in LSP, tree-sitter, and mul
 
 - [csharp-hx](https://github.com/jdrst/csharp-hx) - C# language support and tooling for Helix.
 - [flash.hx](https://github.com/shybovycha/flash.hx) - Jumping around screen using prefix search, like [flash.nvim](https://github.com/folke/flash.nvim).
-- [ghost-text.hx](https://github.com/nik-rev/ghost-text.hx) - GhostText implementation allowing you to edit text in your browser using Helix.
 - [helix-file-watcher](https://github.com/mattwparas/helix-file-watcher) - Monitors the current directory for file changes.
 - [HeTeX.hx](https://github.com/daynardn/HeTeX.hx) - Experimental plugin for rendering LaTeX as ASCII within Helix.
 - [hx-tmux-navigator](https://github.com/piotrkwarcinski/hx-tmux-navigator) - Navigate seamlessly between Helix and tmux panes.
