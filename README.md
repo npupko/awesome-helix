@@ -1,10 +1,8 @@
-# Awesome Helix [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Helix [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <a href="https://helix-editor.com/"><img src="logo.svg" align="right" width="70" height="110" alt="Helix"></a>
 
-> A curated list of awesome Helix resources, tools, and plugins.
-
-Helix is a post-modern modal text editor with built-in LSP, tree-sitter, and multiple selections support.
+> Helix is a post-modern modal text editor with built-in LSP, tree-sitter, and multiple selections support.
 
 <br clear="right">
 
@@ -12,7 +10,7 @@ Helix is a post-modern modal text editor with built-in LSP, tree-sitter, and mul
 
 - [Official Resources](#official-resources)
 - [Plugins](#plugins)
-- [Themes](#themes)
+- [Themes and Appearance](#themes-and-appearance)
 - [Tools and Utilities](#tools-and-utilities)
 - [Tutorials and Guides](#tutorials-and-guides)
 - [Community](#community)
@@ -29,11 +27,10 @@ Helix is a post-modern modal text editor with built-in LSP, tree-sitter, and mul
 
 > **Note**: Helix is currently developing its plugin system. The plugins listed here are experimental or use external integration methods.
 
-### Editor Extensions
-
 - [csharp-hx](https://github.com/jdrst/csharp-hx) - C# language support and tooling for Helix.
 - [flash.hx](https://github.com/shybovycha/flash.hx) - Jumping around screen using prefix search, like [flash.nvim](https://github.com/folke/flash.nvim).
 - [helix-file-watcher](https://github.com/mattwparas/helix-file-watcher) - Monitors the current directory for file changes.
+- [helix-lsp-config](https://github.com/helix-editor/helix/wiki/Language-Server-Configurations) - Community-maintained LSP configurations.
 - [HeTeX.hx](https://github.com/daynardn/HeTeX.hx) - Experimental plugin for rendering LaTeX as ASCII within Helix.
 - [hx-tmux-navigator](https://github.com/piotrkwarcinski/hx-tmux-navigator) - Navigate seamlessly between Helix and tmux panes.
 - [microscope.hx](https://github.com/chuwy/microscope.hx) - Customizable pickers, like [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim).
@@ -50,11 +47,7 @@ Helix is a post-modern modal text editor with built-in LSP, tree-sitter, and mul
 - [switcheroo.hx](https://github.com/godalming123/switcheroo.hx) - Switch between .cpp and .h files with the same base name.
 - [wakatime.hx](https://github.com/Xerxes-2/wakatime.hx) - A Helix Steel plugin that sends WakaTime heartbeats.
 
-### Development Tools
-
-- [helix-lsp-config](https://github.com/helix-editor/helix/wiki/Language-Server-Configurations) - Community-maintained LSP configurations.
-
-## Themes
+## Themes and Appearance
 
 - [Alabaster](https://github.com/wolf/alabaster-for-helix) - Complete port of the minimal Alabaster theme family (standard, BG, and mono variants).
 - [Community Themes](https://github.com/helix-editor/helix/wiki/Themes) - Built-in themes included with Helix.
@@ -79,16 +72,8 @@ Helix is a post-modern modal text editor with built-in LSP, tree-sitter, and mul
 
 ## Community
 
-### Forums and Chat
-
 - [Matrix Chat](https://matrix.to/#/#helix-community:matrix.org) - Official Matrix community.
 - [GitHub Discussions](https://github.com/helix-editor/helix/discussions) - Official discussions.
-
-### Development
-
-- [Contributing Guide](https://github.com/helix-editor/helix/blob/master/docs/CONTRIBUTING.md) - How to contribute to Helix.
-- [Plugin System Discussion](https://github.com/helix-editor/helix/discussions/3806) - Ongoing plugin system development.
-- [Plugin System Implementation](https://github.com/helix-editor/helix/pull/8675) - Active plugin system development PR.
 
 ## Contributing
 
