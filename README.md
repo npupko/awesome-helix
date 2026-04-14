@@ -37,6 +37,7 @@
 - [modeline.hx](https://codeberg.org/gwid/modeline.hx) - Support for basic Emacs and Vim modelines.
 - [notify.hx](https://github.com/chuwy/notify.hx) - Notification popup engine for Helix.
 - [nrepl.hx](https://github.com/waddie/nrepl.hx) - nREPL client for the Helix editor.
+- [oil.hx](https://github.com/Ra77a3l3-jar/oil.hx) - Directory-as-buffer file manager for Helix, like [Oil.nvim](https://github.com/stevearc/oil.nvim).
 - [presence.hx](https://github.com/Ciflire/presence.hx) - Discord Rich Presence integration for Helix.
 - [scooter.hx](https://github.com/thomasschafer/scooter.hx) - Interactive find-and-replace plugin for Helix.
 - [select-project.hx](https://github.com/godalming123/select-project.hx) - Select a project as Helix's working directory with fuzzy finding.
