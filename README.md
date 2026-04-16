@@ -55,6 +55,7 @@
 
 ## Tools and Utilities
 
+- [IWE](https://github.com/iwe-org/iwe) - LSP server for markdown knowledge management with go-to-definition, backlinks, link completion, and code actions.
 - [Steel](https://github.com/mattwparas/steel) - Scheme-based scripting language for configuration and extensibility.
 - [yazelix](https://github.com/luccahuguet/yazelix) - Integrates Yazi, Zellij, and Helix for an IDE-like experience with a file tree.
 
