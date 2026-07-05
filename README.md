@@ -34,6 +34,7 @@
 - [helix-lsp-config](https://github.com/helix-editor/helix/wiki/Language-Server-Configurations) - Community-maintained LSP configurations.
 - [HeTeX.hx](https://github.com/daynardn/HeTeX.hx) - Experimental plugin for rendering LaTeX as ASCII within Helix.
 - [hx-tmux-navigator](https://github.com/piotrkwarcinski/hx-tmux-navigator) - Navigate seamlessly between Helix and tmux panes.
+- [hxwiki](https://github.com/sipmann/hxwiki) - VimWiki-inspired Steel plugin for following/creating `[[links]]` and a daily diary.
 - [microscope.hx](https://github.com/chuwy/microscope.hx) - Customizable pickers, like [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim).
 - [modeline.hx](https://codeberg.org/gwid/modeline.hx) - Support for basic Emacs and Vim modelines.
 - [notify.hx](https://github.com/chuwy/notify.hx) - Notification popup engine for Helix.
