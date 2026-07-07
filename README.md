@@ -45,6 +45,7 @@
 - [showkeys.hx](https://github.com/HeitorAugustoLN/showkeys.hx) - Display pressed keys on screen.
 - [smooth-scroll.hx](https://github.com/thomasschafer/smooth-scroll.hx) - Smooth scrolling Helix plugin.
 - [Steel Dart LSP Extension](https://github.com/mattwparas/steel/discussions/416#discussioncomment-13489298) - Dart LSP extension using Steel programming language.
+- [steel-pty](https://github.com/mattwparas/steel-pty) - Open and manage terminal instances from within Helix.
 - [streal.hx](https://github.com/gllms/streal.hx) - Bookmark files and quickly switch between them.
 - [switcheroo.hx](https://github.com/godalming123/switcheroo.hx) - Switch between .cpp and .h files with the same base name.
 - [wakatime.hx](https://github.com/Xerxes-2/wakatime.hx) - A Helix Steel plugin that sends WakaTime heartbeats.
