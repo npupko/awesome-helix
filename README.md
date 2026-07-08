@@ -29,6 +29,8 @@
 
 - [csharp-hx](https://github.com/jdrst/csharp-hx) - C# language support and tooling for Helix.
 - [flash.hx](https://github.com/shybovycha/flash.hx) - Jumping around screen using prefix search, like [flash.nvim](https://github.com/folke/flash.nvim).
+- [forest.hx](https://github.com/Ra77a3l3-jar/forest.hx) - A file explorer tree, like [snaks.nvim explorer](https://github.com/folke/snacks.nvim/blob/main/docs/explorer.md).
+- [glyph.hx](https://github.com/Ra77a3l3-jar/glyph.hx) - A shared icon library, icons from [mini.icons](https://github.com/nvim-mini/mini.icons).
 - [helix-file-watcher](https://github.com/mattwparas/helix-file-watcher) - Monitors the current directory for file changes.
 - [helix-fcitx-focus](https://github.com/mtul0729/helix-fcitx-focus) - Helix Steel plugin that manages fcitx5 input method state across mode and focus changes.
 - [helix-lsp-config](https://github.com/helix-editor/helix/wiki/Language-Server-Configurations) - Community-maintained LSP configurations.
@@ -48,6 +50,7 @@
 - [steel-pty](https://github.com/mattwparas/steel-pty) - Open and manage terminal instances from within Helix.
 - [streal.hx](https://github.com/gllms/streal.hx) - Bookmark files and quickly switch between them.
 - [switcheroo.hx](https://github.com/godalming123/switcheroo.hx) - Switch between .cpp and .h files with the same base name.
+- [trail.hx](https://github.com/Ra77a3l3-jar/trail.hx) - A recent projects picker.
 - [wakatime.hx](https://github.com/Xerxes-2/wakatime.hx) - A Helix Steel plugin that sends WakaTime heartbeats.
 
 ## Themes and Appearance
