@@ -53,6 +53,7 @@
 - [switcheroo.hx](https://github.com/godalming123/switcheroo.hx) - Switch between .cpp and .h files with the same base name.
 - [trail.hx](https://github.com/Ra77a3l3-jar/trail.hx) - A recent projects picker.
 - [wakatime.hx](https://github.com/Xerxes-2/wakatime.hx) - A Helix Steel plugin that sends WakaTime heartbeats.
+- [zen-mode.hx](https://github.com/notnmeyer/zen-mode.hx) - Distraction free coding. Center your content, hide portions of the UI.
 
 ## Themes and Appearance
 
