@@ -31,6 +31,7 @@
 - [flash.hx](https://github.com/shybovycha/flash.hx) - Jumping around screen using prefix search, like [flash.nvim](https://github.com/folke/flash.nvim).
 - [forest.hx](https://github.com/Ra77a3l3-jar/forest.hx) - A file explorer tree, like [snaks.nvim explorer](https://github.com/folke/snacks.nvim/blob/main/docs/explorer.md).
 - [glyph.hx](https://github.com/Ra77a3l3-jar/glyph.hx) - A shared icon library, icons from [mini.icons](https://github.com/nvim-mini/mini.icons).
+- [grove.hx](https://github.com/ivoronin/grove.hx) - A docked file tree for Helix, inspired by Zed's project panel.
 - [helix-file-watcher](https://github.com/mattwparas/helix-file-watcher) - Monitors the current directory for file changes.
 - [helix-fcitx-focus](https://github.com/mtul0729/helix-fcitx-focus) - Helix Steel plugin that manages fcitx5 input method state across mode and focus changes.
 - [helix-lsp-config](https://github.com/helix-editor/helix/wiki/Language-Server-Configurations) - Community-maintained LSP configurations.
