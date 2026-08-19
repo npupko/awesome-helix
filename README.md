@@ -27,6 +27,7 @@
 
 > **Note**: Helix is currently developing its plugin system. The plugins listed here are experimental or use external integration methods.
 
+- [codesnap.hx](https://github.com/Vyrnexis/codesnap.hx) - A CodeSnap/Polacode alternative that generates code screenshots and copies them to your clipboard.
 - [csharp-hx](https://github.com/jdrst/csharp-hx) - C# language support and tooling for Helix.
 - [flash.hx](https://github.com/shybovycha/flash.hx) - Jumping around screen using prefix search, like [flash.nvim](https://github.com/folke/flash.nvim).
 - [forest.hx](https://github.com/Ra77a3l3-jar/forest.hx) - A file explorer tree, like [snaks.nvim explorer](https://github.com/folke/snacks.nvim/blob/main/docs/explorer.md).
