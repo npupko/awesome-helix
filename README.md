@@ -65,6 +65,7 @@
 
 ## Tools and Utilities
 
+- [helix-non-modal-config](https://github.com/italomaia/helix-non-modal-config) - Set of shortcut bindings that make helix usage easier and more consistent between modes.
 - [Steel](https://github.com/mattwparas/steel) - Scheme-based scripting language for configuration and extensibility.
 - [yazelix](https://github.com/luccahuguet/yazelix) - Integrates Yazi, Zellij, and Helix for an IDE-like experience with a file tree.
 
