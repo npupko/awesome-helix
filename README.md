@@ -65,6 +65,7 @@
 
 ## Tools and Utilities
 
+- [nhx](https://github.com/Ra77a3l3-jar/nhx) - A Nix Home Manager module for installing and configuring Steel plugins.
 - [Steel](https://github.com/mattwparas/steel) - Scheme-based scripting language for configuration and extensibility.
 - [yazelix](https://github.com/luccahuguet/yazelix) - Integrates Yazi, Zellij, and Helix for an IDE-like experience with a file tree.
 
