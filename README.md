@@ -36,6 +36,7 @@
 - [helix-file-watcher](https://github.com/mattwparas/helix-file-watcher) - Monitors the current directory for file changes.
 - [helix-fcitx-focus](https://github.com/mtul0729/helix-fcitx-focus) - Helix Steel plugin that manages fcitx5 input method state across mode and focus changes.
 - [helix-lsp-config](https://github.com/helix-editor/helix/wiki/Language-Server-Configurations) - Community-maintained LSP configurations.
+- [helix-rocq](https://git.lesurpaul.fr/lesurp/helix-rocq) - Helix plugin for interactive proof visualisation using Rocq. 
 - [HeTeX.hx](https://github.com/daynardn/HeTeX.hx) - Experimental plugin for rendering LaTeX as ASCII within Helix.
 - [hx-tmux-navigator](https://github.com/piotrkwarcinski/hx-tmux-navigator) - Navigate seamlessly between Helix and tmux panes.
 - [hxwiki](https://github.com/sipmann/hxwiki) - VimWiki-inspired Steel plugin for following/creating `[[links]]` and a daily diary.
