@@ -63,6 +63,7 @@
 
 - [Alabaster](https://github.com/wolf/alabaster-for-helix) - Complete port of the minimal Alabaster theme family (standard, BG, and mono variants).
 - [Community Themes](https://github.com/helix-editor/helix/wiki/Themes) - Built-in themes included with Helix.
+- [EditorThemes](https://editorthemes.com/editors/helix) - Directory of Helix themes with live previews and config.toml install snippets.
 
 ## Tools and Utilities
 
